@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Juergen</h1>
-<h3 align="center">Working in medical software development, doing some more software and hardware tinkering in my free time</h3>
+## Hi 👋, I'm Juergen 
+### Working in medical software development, tinkering with hardware and software in my free time</h3>
 
 
 - 🔭 I’m currently working on [a SwiftUI application](https://github.com/JayFiDev/StoreAway)
