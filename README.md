@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Swift, SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JayFiDev?tab=repositories](https://github.com/JayFiDev?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/JayFiDev](https://github.com/JayFiDev?tab=repositories)
 
 - 💬 Ask me about **Arduino, 3D Printing, C++, C#**
 
