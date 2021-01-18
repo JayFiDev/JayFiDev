@@ -2,7 +2,7 @@
 ### Working in medical software development, tinkering with hardware and software in my free time</h3>
 
 
-- 🔭 I’m currently working on [a SwiftUI application](www.yearlygoal.link) to track my running & hiking progress
+- 🔭 I’m currently working on [Yearly Goal](https://jayfidev.github.io/YearlyGoalApp/). A app to track my running & hiking progress.
 
 - 🌱 Happy to have my first app on the AppStore! 
 
