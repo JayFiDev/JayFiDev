@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JayFiDev](https://github.com/JayFiDev?tab=repositories)
 
-- 💬 Ask me about **Arduino, 3D Printing, C++, C#**
+- 💬 Ask me about **Swift, SwiftUI, 3D Printing, C++, C#**
 
 
 
